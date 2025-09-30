@@ -58,12 +58,17 @@ Amount: -300
 Description: Groceries
 
 **Displayed in App**
+
 Your Balance: ₦700.00
+
 Income: ₦1,000.00
+
 Expenses: ₦-300.00
 
 ## Transactions:
+
 Salary ₦1,000.00
+
 Groceries ₦-300.00
 
 
