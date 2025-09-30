@@ -70,10 +70,8 @@ Groceries ₦-300.00
 ---
 
 ## 📸 Screenshots
-```
-![App 1st Screenshot](screenshot1.png)
-![App 2nd Screenshot](screenshot2.png)
-```
+![App 1st Screenshot](Screenshot1.png)
+![App 2nd Screenshot](Screenshot2.png)
 
 ## 📖 Learning Highlights
 DOM selection and event handling
@@ -91,7 +89,7 @@ Add user authentication for multi-user use
 
 ## 🛠️ How to Run
 Clone the repository:
-git clone https://github.com/your-username/expense-tracker.git
+git clone https://github.com/mrbenworkshop/expense-tracker.git
 Open the project folder:
 cd expense-tracker
 Open index.html in your browser.
