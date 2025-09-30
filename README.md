@@ -24,7 +24,9 @@ This project helps users keep track of incomes and expenses, calculate balances 
 
 ## 📂 Project Structure
 ├── index.html # Main HTML structure
+
 ├── style.css # Styles for layout and components
+
 └── script.js # App logic & LocalStorage handling
 
 
